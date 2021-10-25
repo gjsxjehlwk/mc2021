@@ -2,7 +2,9 @@
 #TIME(HH:MM)24시간
 #ISFIRSTGRADE(True/False)
 #ISSECONDGRADE(True/False)
+#Announcement(String)
 True
 12:30
 True
 True
+11월 2일까지 프로젝트 완성해오기
