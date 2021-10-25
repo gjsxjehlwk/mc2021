@@ -1,0 +1,8 @@
+#ISOPEN(True/False), False 시 TIME, ISFIRSTGRADE, ISSECONDGRADE 변수를 무시합니다.
+#TIME(HH:MM)24시간
+#ISFIRSTGRADE(True/False)
+#ISSECONDGRADE(True/False)
+True
+12:30
+True
+True
